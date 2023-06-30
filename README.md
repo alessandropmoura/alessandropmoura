@@ -21,7 +21,9 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=alessandropmoura&show_icons=true" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandropmoura&size_weight=0.5&count_weight=0.5)
 </picture>
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
